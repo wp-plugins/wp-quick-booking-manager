@@ -51,9 +51,6 @@ You can use this booking calendar as:
 	 
 This plugin is compatible and tested up to Wordpress Version: 4.0 
 
-
-Check http://www.codeinterest.com/ for more Plugins.
-
 <p>
 <strong><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/woo-commerce/woocommerce-paypal-payments-pro-direct-payment">WooCommerce PayPal Payments Pro (Direct Payment)</a></strong>,
  <strong><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/woo-commerce/woocommerce-eway-payment-gateway">woocommerce eway payment gateway</a></strong>
@@ -64,6 +61,10 @@ Check http://www.codeinterest.com/ for more Plugins.
  <strong><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/wordpress/get-response-wordpress">GetResponse Wordpress Plugin</a></strong>, 
  <strong><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/woo-commerce/woocommerce-eway-payment-gateway">woocommerce eway payment gateway</a></strong>, 
  <strong><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/woo-commerce/personalize-mobile-case-design-for-woocommerce">Personalize Mobile Case Design for WooCommerce</a></strong></p>
+
+
+Check http://www.codeinterest.com/ for more Plugins.
+
 
 
 == Screenshots ==
