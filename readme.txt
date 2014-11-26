@@ -1,13 +1,7 @@
 === WP Quick Booking Manager ===
 Contributors: SolverCircle ltd
 
-Tags: accommodations, admin, administration, AJAX, appointment, availability, availability calendar, 
-Booking, Book, Booking calendar, booking form, booking system, booking engine, bookings, booking module, booking plugin,
-calendar, contact form, hotel,  hotel rooms ,online booking calendar, online reservation, Reservation, reservation calendar,
-reservations, reservation plugin, rooms, schedule, scheduling, date blocker, jquery, management, meeting, Meeting scheduling,
-Organizer, rent, Rental, reservation system, schedule calendar, schedule system, service, to book, villa booking, resort booking, resort,
-php booking system, php mysql booking, wordpress online booking, wordpress room reservation, wordpress booking,
-wordpress booking script, wordpress hotel script, wp hotel manager, wp hotel reservation system, wp reservation script
+Tags: accommodations, admin, administration, AJAX, appointment, availability, availability calendar, Booking, Book, Booking calendar, booking form, booking system, booking engine, bookings, booking module, booking plugin, calendar, contact form, hotel,  hotel rooms ,online booking calendar, online reservation, Reservation, reservation calendar, reservations, reservation plugin, rooms, schedule, scheduling, date blocker, jquery, management, meeting, Meeting scheduling, Organizer, rent, Rental, reservation system, schedule calendar, schedule system, service, to book, villa booking, resort booking, resort, php booking system, php mysql booking, wordpress online booking, wordpress room reservation, Wordpress booking, wordpress booking script, wordpress hotel script, wp hotel manager, wp hotel reservation system, wp reservation script
 
 
 Requires at least: 3.3.0.
@@ -74,7 +68,7 @@ Check www.solvercircle.com for more information.
 == Installation ==
 
 1) Copy/Upload 'gen_scbooking' folder to the '/wp-content/plugins/' directory
-2) Activate 'SC Booking Management System' form wp plugin option in admin area
+2) Activate 'WP Quick Booking Manager' form wp plugin option in admin area
 3) Plugin will appear in the menu bar of WP Dashboard
 4) create rooms/resort/else for booking.
 5) please save primary menu if no rooms gallery or booking calendar is showing.
