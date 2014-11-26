@@ -53,7 +53,7 @@ This plugin is compatible and tested up to Wordpress Version: 4.0
 
 
 Check http://www.codeinterest.com/ for more Plugins.
-== Author Plugins ==
+
 <p>
 <strong><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/woo-commerce/woocommerce-paypal-payments-pro-direct-payment">WooCommerce PayPal Payments Pro (Direct Payment)</a></strong>,
  <strong><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/woo-commerce/woocommerce-eway-payment-gateway">woocommerce eway payment gateway</a></strong>
