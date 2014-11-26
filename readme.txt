@@ -84,3 +84,15 @@ Check www.solvercircle.com for more information.
 
 = 1.1 =
 First version of SC Booking Management System . No errors known.
+
+== Author Plugins ==
+<p>
+<strong><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/woo-commerce/woocommerce-paypal-payments-pro-direct-payment">WooCommerce PayPal Payments Pro (Direct Payment)</a></strong>,
+ <strong><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/woo-commerce/woocommerce-eway-payment-gateway">woocommerce eway payment gateway</a></strong>
+ </p>
+
+<p>Some of our popular extensions include 
+<strong><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/wordpress/icontact-wordpress">iContact Wordpress Plugin</a></strong>,
+ <strong><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/wordpress/get-response-wordpress">GetResponse Wordpress Plugin</a></strong>, 
+ <strong><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/woo-commerce/woocommerce-eway-payment-gateway">woocommerce eway payment gateway</a></strong>, 
+ <strong><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/woo-commerce/personalize-mobile-case-design-for-woocommerce">Personalize Mobile Case Design for WooCommerce</a></strong></p>
