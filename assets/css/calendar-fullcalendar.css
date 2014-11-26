@@ -1,0 +1,15 @@
+#calendar {
+	width: 800px;
+	margin-top: 10px;
+}
+.event {
+}
+.greenEvent {
+		background-color:#00FF00;
+}
+.redEvent {
+		background-color:#FF0000;
+}
+#wpfooter {
+	position:relative;
+}

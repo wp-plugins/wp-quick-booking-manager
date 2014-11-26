@@ -1,0 +1,77 @@
+#addbooking_back_dialog .multiselect {
+	text-align: left;
+}
+#addbooking_back_dialog .multiselect-container li.active .checkbox{
+	background-color:#3A83C2;
+}
+#addbooking_back_dialog li .active{
+	color: red;
+}
+#addbooking_back_dialog li {
+	margin-bottom: 0px;
+}
+#addbooking_back_dialog #namediv input{
+	width: 70%;
+}
+#addbooking_back_dialog #namediv #multi_rooms_select input{
+	width: 20%;
+	margin-left:10px;
+}
+#addbooking_back_dialog #namediv #multi_rooms_select label{
+	padding-left:0px;
+}
+/**/
+#addbooking_back_dialog #frmbooking select, button, input, textarea {
+	border:1px solid #E2E2E2;
+	/*margin:5px;*/
+}
+#addbooking_back_dialog #frmbooking label {
+	margin:3px;
+	width:135px;
+}
+#addbooking_back_dialog span{font-size:12px;}
+#addbooking_back_dialog #frmbooking table{
+	/*width: 50%;*/
+	font-size:10px;
+	margin:10px;
+	width:350px;
+}
+#addbooking_back_dialog input.rounded {
+	border: 1px solid #ccc;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	/*-moz-box-shadow: 2px 2px 3px #666;
+	-webkit-box-shadow: 2px 2px 3px #666;
+	box-shadow: 2px 2px 3px #666;*/
+	/*font-size: 20px;*/
+  width:230px;
+  font-size: 14px;
+	padding: 4px 7px;
+	outline: 0;
+	-webkit-appearance: none;
+}
+#addbooking_back_dialog select.rounded {
+		border: 1px solid #ccc;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	/*-moz-box-shadow: 2px 2px 3px #666;
+	-webkit-box-shadow: 2px 2px 3px #666;
+	box-shadow: 2px 2px 3px #666;*/
+	font-size: 20px;
+	padding: 4px 7px;
+	outline: 0;
+	-webkit-appearance: none;
+}
+#addbooking_back_dialog input.rounded:focus {
+	border-color: #4CB7FF;
+}
+#addbooking_back_dialog .ui-dialog {
+	z-index:3000!important;
+}
+/*-------theme css override------*/
+#addbooking_back_dialog select, input[type="text"]{
+	height: 30px;
+	font-size:12px;
+}

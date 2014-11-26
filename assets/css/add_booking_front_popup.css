@@ -1,0 +1,76 @@
+.multiselect {
+	text-align: left;
+}
+.multiselect-container li.active .checkbox{
+	background-color:#3A83C2;
+}
+li .active{
+	color: red;
+}
+li {
+	margin-bottom: 0px;
+}
+#namediv input{
+	width: 70%;
+}
+#namediv #multi_rooms_select input{
+	width: 20%;
+	margin-left:10px;
+}
+#namediv #multi_rooms_select label{
+	padding-left:0px;
+}
+/**/
+#frmbooking select, button, input, textarea {
+	border:1px solid #E2E2E2;
+	/*margin:2px;*/
+}
+#frmbooking label {
+	margin:3px;
+	width:135px;
+}
+span{font-size:12px;}
+#frmbooking table{
+	/*width: 50%;*/
+	font-size:10px;
+	margin:10px;
+	width:450px;
+}
+table, th, td {
+    border: none;
+}
+#frmbooking table tr td{
+	padding:3px;
+}
+input.rounded {
+		border: 1px solid #ccc;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	font-size: 20px;
+	padding: 4px 7px;
+	outline: 0;
+	-webkit-appearance: none;
+}
+select.rounded {
+		border: 1px solid #ccc;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	font-size: 20px;
+	padding: 4px 7px;
+	outline: 0;
+	-webkit-appearance: none;
+}
+input.rounded:focus {
+	border-color: #4CB7FF;
+}
+.ui-dialog {
+	z-index:3000!important;
+}
+/*-------theme css override------*/
+select, input[type='text']{
+	height: 30px;
+	font-size:12px;
+	width:95%;
+}

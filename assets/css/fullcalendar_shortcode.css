@@ -1,0 +1,20 @@
+#calendar {
+	width: 800px;
+	/*margin: 0 auto;*/
+	/*margin: 30px;*/
+}
+.event {
+	/*shared event css*/
+}
+.greenEvent {
+		background-color:#00FF00;
+}
+.redEvent {
+		background-color:#FF0000;
+}
+table{
+	margin:0!important;
+}
+#optrooms{
+	height: 25px;
+}

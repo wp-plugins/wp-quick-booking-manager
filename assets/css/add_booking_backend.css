@@ -1,0 +1,34 @@
+#addbooking_backend .multiselect {
+	text-align: left;
+}
+#addbooking_backend .multiselect-container li.active .checkbox{
+	background-color:#3A83C2;
+}
+#addbooking_backend li .active{
+	color: red;
+}
+#addbooking_backend li {
+	margin-bottom: 0px;
+}
+#addbooking_backend #namediv input{
+	width: 70%;
+}
+#addbooking_backend #namediv #multi_rooms_select input{
+	width: 20%;
+	margin-left:10px;
+	position:static;
+}
+#addbooking_backend #namediv #multi_rooms_select label{
+	padding-left:0px;
+}
+/**/
+#addbooking_backend .bookinglavel{
+	width:16%;
+}
+#addbooking_backend .bookinginput{
+	width:75%;
+}
+#addbooking_backend table.tbladdbooking tr td{
+	padding:3px;
+	line-height:1.5;
+} 
