@@ -61,7 +61,7 @@ This plugin is compatible and tested up to Wordpress Version: 4.0
  <strong><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/wordpress/get-response-wordpress">GetResponse Wordpress Plugin</a></strong>, 
  <strong><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/woo-commerce/woocommerce-eway-payment-gateway">woocommerce eway payment gateway</a></strong>, 
  <strong><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/woo-commerce/personalize-mobile-case-design-for-woocommerce">Personalize Mobile Case Design for WooCommerce</a></strong>, 
- <strong><a rel="nofollow" href="codecanyon.net/item/woocommerce-business-card-flyer-design/8771618?ref=wpproducts">WooCommerce Business Card & Flyer Design</a></strong>,
+ <strong><a rel="nofollow" href="http://codecanyon.net/item/woocommerce-business-card-flyer-design/8771618?ref=wpproducts">WooCommerce Business Card & Flyer Design</a></strong>,
 
  <strong><a rel="nofollow" href="http://codecanyon.net/item/custom-product-and-tshirt-design-for-prestashop/8593926?ref=wpproducts">Custom Product and T-shirt Design for Prestashop</a></strong>,
 
