@@ -57,12 +57,19 @@ Check www.solvercircle.com for more information.
 
 == Screenshots ==
 
-1. add new room
-2. add booking
-3. Manage booking
-4. Manage Rooms
-5. Booking Calendar or availability Calendar
-6. Rooms Gallery
+1. Screenshot 1
+
+2. Screenshot 2
+
+3. Screenshot 3
+
+4. Screenshot 4
+
+5. Screenshot 5
+
+6. Screenshot 6
+
+7. Screenshot 7
 
 
 == Installation ==
