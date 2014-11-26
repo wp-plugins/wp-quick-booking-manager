@@ -1,4 +1,4 @@
-=== SC Booking Management System ===
+=== WP Quick Booking Manager ===
 Contributors: SolverCircle ltd
 
 Tags: accommodations, admin, administration, AJAX, appointment, availability, availability calendar, 
@@ -13,11 +13,11 @@ wordpress booking script, wordpress hotel script, wp hotel manager, wp hotel res
 Requires at least: 3.3.0.
 
 
-Wordpress Booking Management System. 
+WP Quick Booking Manager. 
 
 == Description ==
 
-"SC Booking Management System" plugin will enable online booking services for your site.
+"WP Quick Booking Manager" plugin will enable online booking services for your site.
 you can show and manage your apartments/houses/hotel rooms/hotel/resorts(or something else) availability for rent.
 You can manage the bookings (availability) on a daily basis. rooms gallery and booking calendar page will be created automatically and shortcode to generate
 calendar will be automatically copied. you can add/edit rooms/cottage or any service and add/edit or delete bookings from admin to manage the full system.
