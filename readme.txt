@@ -67,7 +67,6 @@ This plugin is compatible and tested up to Wordpress Version: 4.0
  <p><a rel="nofollow" href="http://codecanyon.net/item/woocommerce-custom-tshirt-designer/5185471?ref=wpproducts">WooCommerce Custom T-Shirt Designer</a></p>
 
 
-
 Check http://www.codeinterest.com/ for more Plugins.
 
 
