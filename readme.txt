@@ -57,12 +57,12 @@ This plugin is compatible and tested up to Wordpress Version: 4.0
  <p><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/wordpress/get-response-wordpress">GetResponse Wordpress Plugin</a></p>
  
  <p><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/woo-commerce/woocommerce-eway-payment-gateway">woocommerce eway payment gateway</a></p>
- 
+
  <p><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/woo-commerce/personalize-mobile-case-design-for-woocommerce">Personalize Mobile Case Design for WooCommerce</a></p>
 
  <p><a rel="nofollow" href="http://codecanyon.net/item/woocommerce-business-card-flyer-design/8771618?ref=wpproducts">WooCommerce Business Card & Flyer Design</a></p>
 
- <p><a rel="nofollow" href="http://codecanyon.net/item/custom-product-and-tshirt-design-for-prestashop/8593926?ref=wpproducts">Custom Product and T-shirt Design for Prestashop</a></p>,
+ <p><a rel="nofollow" href="http://codecanyon.net/item/custom-product-and-tshirt-design-for-prestashop/8593926?ref=wpproducts">Custom Product and T-shirt Design for Prestashop</a></p>
 
  <p><a rel="nofollow" href="http://codecanyon.net/item/woocommerce-custom-tshirt-designer/5185471?ref=wpproducts">WooCommerce Custom T-Shirt Designer</a></p>
 
