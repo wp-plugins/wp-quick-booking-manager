@@ -3,7 +3,6 @@ Contributors: SolverCircle ltd
 
 Tags: accommodations, admin, administration, AJAX, appointment, availability, availability calendar, Booking, Book, Booking calendar, booking form, booking system, booking engine, bookings, booking module, booking plugin, calendar, contact form, hotel,  hotel rooms ,online booking calendar, online reservation, Reservation, reservation calendar, reservations, reservation plugin, rooms, schedule, scheduling, date blocker, jquery, management, meeting, Meeting scheduling, Organizer, rent, Rental, reservation system, schedule calendar, schedule system, service, to book, villa booking, resort booking, resort, php booking system, php mysql booking, wordpress online booking, wordpress room reservation, Wordpress booking, wordpress booking script, wordpress hotel script, wp hotel manager, wp hotel reservation system, wp reservation script
 
-
 Requires at least: 3.3.0.
 
 
