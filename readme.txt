@@ -19,32 +19,32 @@ Your Customers will be able to:
 
 	
 = KEY BENEFITS: =
- - very easy to install and configure. 
- - Very flexible functionality. Fit to very wide range of business.
- - All bookings and settings are stored in your DB. You don't need third party account(s).
- - An easy to use Booking Admin Panel that displays bookings in Calendar Overview and lets you manages bookings.
- - Built with jQuery, Ajax and other technologies.
- - Easy to install and integrate into your site. because necessary post or page will be automatically created and shortcodes will be automatically copied to page.
+- very easy to install and configure. 
+- Very flexible functionality. Fit to very wide range of business.
+- All bookings and settings are stored in your DB. You don't need third party account(s).
+- An easy to use Booking Admin Panel that displays bookings in Calendar Overview and lets you manages bookings.
+- Built with jQuery, Ajax and other technologies.
+- Easy to install and integrate into your site. because necessary post or page will be automatically created and shortcodes will be automatically copied to page.
 	
 = FEATURES: =
-  - Make bookings in friendly booking interface - select the date(s) and fill form fields.
-  - Prevent of double booking for already reserved days (1 booking per 1 day for a particular room).
+- Make bookings in friendly booking interface - select the date(s) and fill form fields.
+- Prevent of double booking for already reserved days (1 booking per 1 day for a particular room).
 
 = Manage your Bookings in Admin Panel: =
-    - Comfortable Admin Panel for booking management. View bookings in Calendar Overview Panel (Timeline) with possibility to set Day/Week/Month view 
+- Comfortable Admin Panel for booking management. View bookings in Calendar Overview Panel (Timeline) with possibility to set Day/Week/Month view 
 	or in Booking Listing Table with pagination.
-    - In manage booking Search the booking(s) by different parameters, using the Filter in Admin Panel.
-    - Pagination of the booking listing.
-    - Administrator can edit or Delete specific bookings.
-    - View the bookings in booking calendar of any month of any year.
+- In manage booking Search the booking(s) by different parameters, using the Filter in Admin Panel.
+- Pagination of the booking listing.
+- Administrator can edit or Delete specific bookings.
+- View the bookings in booking calendar of any month of any year.
 
 = You can use this booking calendar as: =
-    - Booking calendar / availability calendar for a holiday home, bed & breakfast, condo or hotel
-    - Booking calendar / availability calendar for a room or office
-    - Booking calendar / availability calendar for a car or boat
-    - A booking calendar for equipment
-    - A shift calendar
-    - Whatever you like!
+- Booking calendar / availability calendar for a holiday home, bed & breakfast, condo or hotel
+- Booking calendar / availability calendar for a room or office
+- Booking calendar / availability calendar for a car or boat
+- A booking calendar for equipment
+- A shift calendar
+- Whatever you like!
 	 
 This plugin is compatible and tested up to Wordpress Version: 4.0 
 
