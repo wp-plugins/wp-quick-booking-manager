@@ -32,7 +32,6 @@ Your Customers will be able to:
   - Prevent of double booking for already reserved days (1 booking per 1 day for a particular room).
 
 = Manage your Bookings in Admin Panel: =
-
     - Comfortable Admin Panel for booking management. View bookings in Calendar Overview Panel (Timeline) with possibility to set Day/Week/Month view 
 	or in Booking Listing Table with pagination.
     - In manage booking Search the booking(s) by different parameters, using the Filter in Admin Panel.
@@ -41,7 +40,6 @@ Your Customers will be able to:
     - View the bookings in booking calendar of any month of any year.
 
 = You can use this booking calendar as: =
-    
     - Booking calendar / availability calendar for a holiday home, bed & breakfast, condo or hotel
     - Booking calendar / availability calendar for a room or office
     - Booking calendar / availability calendar for a car or boat
@@ -68,7 +66,6 @@ This plugin is compatible and tested up to Wordpress Version: 4.0
 
 
 Check http://www.codeinterest.com/ for more Plugins.
-
 
 
 == Screenshots ==
