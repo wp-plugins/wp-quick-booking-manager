@@ -7,6 +7,7 @@ Tags: accommodations, admin, administration, AJAX, appointment, availability, av
 Requires at least: 3.3.0.
 
 
+
 WP Quick Booking Manager. 
 
 == Description ==
