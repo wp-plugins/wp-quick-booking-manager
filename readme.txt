@@ -70,7 +70,7 @@ Check http://www.codeinterest.com/ for more Plugins.
 
 == Screenshots ==
 
-1. Screenshot 1
+1. Admin - Add Booking
 
 2. Screenshot 2
 
