@@ -72,17 +72,17 @@ Check http://www.codeinterest.com/ for more Plugins.
 
 1. Admin - Add Booking
 
-2. Screenshot 2
+2. Admin - Add New Room
 
-3. Screenshot 3
+3. Admin - Booking Calendar
 
-4. Screenshot 4
+4. Admin - Manage Booking
 
-5. Screenshot 5
+5. Admin Rooms
 
-6. Screenshot 6
+6. Frontend - Booking Calendar
 
-7. Screenshot 7
+7. Frontend - Rooms
 
 
 == Installation ==
