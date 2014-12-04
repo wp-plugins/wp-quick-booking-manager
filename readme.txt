@@ -97,4 +97,4 @@ Check http://www.codeinterest.com/ for more Plugins.
 == FAQ ==
 
 = 1.1 =
-First version of SC Booking Management System . No errors known.
+First version of WP Quick Booking Manager . No errors known.
