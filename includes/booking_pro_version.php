@@ -16,7 +16,7 @@
        <div class="main_div">
         <div class="metabox-holder" style="width:98%; float:left;">
             <div id="namediv" class="stuffbox" style="width:60%;min-height:450px;">
-              <h3 class="top_bar">Our Pro version includes more facilities Like:</h3>
+              <h3 class="top_bar">More Features Available in Our Pro Version:-</h3>
               <div style="padding-top:15px;margin-left:20px;">
                 <a class="btnprover" target="_blank" href="http://wordpress-expert.codeinterest.com/wordpress/wp-quick-booking-manager-pro" style="width:100px;height: 20px;background-color: green;color:white;" >WP Quick Booking Manager Pro</a>
               </div>  
@@ -35,7 +35,7 @@
                       <li>Full Technical Support From Us</li>
                     </ol>
                    <div style="padding-top:15px;">
-                     <b>Please Purchase Our Professional Version to Increase your Business </b><br/><br/><br/>
+                     <b>Please Have Our Professional Version to Increase your Business </b><br/><br/><br/>
                      <a class="btnprover" target="_blank" href="http://wordpress-expert.codeinterest.com/wordpress/wp-quick-booking-manager-pro" style="width:100px;height: 20px;background-color: green;color:white;" >WP Quick Booking Manager Pro</a>
                     </div>
                    <div style="float:right;padding-top:35px; font-size: 11px;">Developed by: <a target="_blank" href="http://www.solvercircle.com">SolverCircle Ltd</a></div>
