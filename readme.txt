@@ -8,7 +8,7 @@ License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 
-WP Quick Booking Manager. 
+WP Quick Booking Manager provides a easy way to manage your booking and check availability in custom Calendar. 
 
 == Description ==
 
@@ -16,6 +16,11 @@ WP Quick Booking Manager.
 you can show and manage your apartments/houses/hotel rooms/hotel/resorts(or something else) availability for rent.
 You can manage the bookings (availability) on a daily basis. rooms gallery and booking calendar page will be created automatically and shortcode to generate
 calendar will be automatically copied. you can add/edit rooms/cottage or any service and add/edit or delete bookings from admin to manage the full system.
+
+> **Get more features for a small fee**
+> [WP Quick Booking Manager Pro](http://wordpress-expert.codeinterest.com/wordpress/wp-quick-booking-manager-pro) also comes with a premium paid version. Upgrade to [WP Quick Booking Manager Pro](http://wordpress-expert.codeinterest.com/wordpress/wp-quick-booking-manager-pro) for exceptional features, including a detailed Integrated Payment Gateway, Customized Calendar view, Property gallery, Free Technical support and much more. [Checkout all the awesome pro features](http://wordpress-expert.codeinterest.com/wordpress/wp-quick-booking-manager-pro).
+>
+
 
 Your Customers will be able to:
 
@@ -31,6 +36,21 @@ Your Customers will be able to:
 = FEATURES: =
 - Make bookings in friendly booking interface - select the date(s) and fill form fields.
 - Prevent of double booking for already reserved days (1 booking per 1 day for a particular room).
+
+= Additional Features Available with the Pro (paid) version only =
+- Free Installation Service
+- Unlimited Room and Property categories
+- Integrated Payment Gateways
+- Built in Shopping Cart Enabled
+- Custom made dynamic Monthly Calendar
+- All Rooms Monthly Booking At a glance
+- Personalized Calendar User Interface
+- Manage Booking Straight From the Custom Made Calendar
+- Dynamic Rooms Gallery
+- Full Technical Support From Us
+
+[Upgrade to the Pro version](http://wordpress-expert.codeinterest.com/wordpress/wp-quick-booking-manager-pro) for all the pro features, and read more in [depth details](http://wordpress-expert.codeinterest.com/wordpress/wp-quick-booking-manager-pro) about the plugin.
+
 
 = Manage your Bookings in Admin Panel: =
 - Comfortable Admin Panel for booking management. View bookings in Calendar Overview Panel (Timeline) with possibility to set Day/Week/Month view 
