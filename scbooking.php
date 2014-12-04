@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: WP Quick Booking Manager
-Plugin URI: http://www.booking.tourcircle.com
+Plugin URI: http://www.codeinterest.com/
 Description: General Hotel/Resort Booking Management System
-Version: 1.0
-Author: SolverCircle
+Version: 1.1
+Author: wpproducts
 Author URI: http://www.solvercircle.com
 */
 define('GEN_SCBOOKING_PLUGIN_URL', plugins_url('',__FILE__));
@@ -214,6 +214,9 @@ function gen_booking_calendar_menu(){
 function gen_cssfix_front(){
 	add_submenu_page( 'edit.php?post_type=gen_custom_booking', 'FrontEnd CSS Fix', 'FrontEnd CSS Fix', 'manage_options', 'css-fix-menu', 'gen_cssfix_front_setting' );
 }
+function gen_pro_version(){
+	add_submenu_page( 'edit.php?post_type=gen_custom_booking', 'Booking Pro Version', 'BOOKING PRO VERSION', 'manage_options', 'booking-pro-version', 'gen_booking_pro_version_setting' );
+}
 //-------------Booking Settings-----------------------
 function gen_scbooking_get_opt_val($opt_name,$default_val){
 	if(get_option($opt_name)!=''){
@@ -235,11 +238,15 @@ function gen_add_booking_settings(){
 function gen_cssfix_front_setting(){
 	include_once('includes/add_cssfix_front.php');	
 }
+function gen_booking_pro_version_setting(){
+  include_once('includes/booking_pro_version.php');
+}
 
 add_action( 'admin_menu', 'gen_custom_add_booking_menu' );
 add_action( 'admin_menu', 'gen_custom_manage_booking_menu' );
 add_action( 'admin_menu', 'gen_booking_calendar_menu' );
 add_action('admin_menu','gen_cssfix_front');
+add_action('admin_menu','gen_pro_version');
 
 include_once('operations/scbooking_init.php');
 
