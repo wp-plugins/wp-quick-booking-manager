@@ -18,24 +18,25 @@
             <div id="namediv" class="stuffbox" style="width:60%;min-height:450px;">
               <h3 class="top_bar">Our Pro version includes more facilities Like:</h3>
               <div style="padding-top:15px;margin-left:20px;">
-                <a class="btnprover" target="_blank" href="http://wordpress-expert.codeinterest.com/wordpress/wp-quick-booking-manager-pro" style="width:100px;height: 20px;background-color: green;color:white;" >Purchase WP Quick Booking Manager Pro</a>
+                <a class="btnprover" target="_blank" href="http://wordpress-expert.codeinterest.com/wordpress/wp-quick-booking-manager-pro" style="width:100px;height: 20px;background-color: green;color:white;" >WP Quick Booking Manager Pro</a>
               </div>  
                <form id="frmCssFix" action="" method="post" style="width:100%">
                  <div style="margin: 20px;">
                     <ol>
-                      <li>Room category</li>
-                      <li>Custom made Monthly Calendar</li>
+                      <li>Free Installation Service</li>
+                      <li>Unlimited Room and Property categories</li>
+                      <li>Integrated Payment Gateways.</li>
+                      <li>Built in Shopping Cart Enabled</li>
+                      <li>Custom made dynamic Monthly Calendar</li>
                       <li>All Rooms Monthly Booking At a glance</li>
-                      <li>Whole Month Availability At a Glance</li>
-                      <li>Set Color for "Booked" and "Processing" dynamically </li>
+                      <li>Personalized Calendar User Interface</li>
                       <li>Manage Booking Straight From the Custom Made Calendar</li>
-                      <li>Built in Shopping Cart</li>
-                      <li>Payment Gateway Integrated</li>
+                      <li>Dynamic Rooms Gallery</li>
                       <li>Full Technical Support From Us</li>
                     </ol>
                    <div style="padding-top:15px;">
                      <b>Please Purchase Our Professional Version to Increase your Business </b><br/><br/><br/>
-                     <a class="btnprover" target="_blank" href="http://wordpress-expert.codeinterest.com/wordpress/wp-quick-booking-manager-pro" style="width:100px;height: 20px;background-color: green;color:white;" >Purchase WP Quick Booking Manager Pro</a>
+                     <a class="btnprover" target="_blank" href="http://wordpress-expert.codeinterest.com/wordpress/wp-quick-booking-manager-pro" style="width:100px;height: 20px;background-color: green;color:white;" >WP Quick Booking Manager Pro</a>
                     </div>
                    <div style="float:right;padding-top:35px; font-size: 11px;">Developed by: <a target="_blank" href="http://www.solvercircle.com">SolverCircle Ltd</a></div>
                  </div> 
