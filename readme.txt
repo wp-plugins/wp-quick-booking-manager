@@ -8,7 +8,7 @@ License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 
-WP Quick Booking Manager provides a easy way to manage your booking and check availability in custom Calendar. 
+WP Quick Booking Manager provides an easy way to manage your booking and check availability in custom Calendar. 
 
 == Description ==
 
