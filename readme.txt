@@ -1,11 +1,11 @@
 === WP Quick Booking Manager ===
 Contributors: wpproducts
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=solvercircle@gmail.com&item_name=Donation+for+Booking_Manager
-
 Tags: accommodations, admin, administration, AJAX, appointment, availability, availability calendar, Booking, Book, Booking calendar, booking form, booking system, booking engine, bookings, booking module, booking plugin, calendar, contact form, hotel,  hotel rooms ,online booking calendar, online reservation, Reservation, reservation calendar, reservations, reservation plugin, rooms, schedule, scheduling, date blocker, jquery, management, meeting, Meeting scheduling, Organizer, rent, Rental, reservation system, schedule calendar, schedule system, service, to book, villa booking, resort booking, resort, php booking system, php mysql booking, wordpress online booking, wordpress room reservation, Wordpress booking, wordpress booking script, wordpress hotel script, wp hotel manager, wp hotel reservation system, wp reservation script
-
 Requires at least: 3.3.0.
-
+Stable tag: 1.1
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 WP Quick Booking Manager. 
@@ -85,6 +85,14 @@ Check http://www.codeinterest.com/ for more Plugins.
 
 7. Frontend - Rooms
 
+== Changelog ==
+
+= 1.1 =
+* This version added a new page.
+* Updated some css. so please update to get latest effect.
+
+= 1.0 =
+This is the initial version of the plugin.
 
 == Installation ==
 
