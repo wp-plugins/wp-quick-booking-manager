@@ -18,7 +18,7 @@ You can manage the bookings (availability) on a daily basis. rooms gallery and b
 calendar will be automatically copied. you can add/edit rooms/cottage or any service and add/edit or delete bookings from admin to manage the full system.
 
 > **Get more features for a small fee**
-> [WP Quick Booking Manager Pro](http://wordpress-expert.codeinterest.com/wordpress/wp-quick-booking-manager-pro) also comes with a premium paid version. Upgrade to [WP Quick Booking Manager Pro](http://wordpress-expert.codeinterest.com/wordpress/wp-quick-booking-manager-pro) for exceptional features, including a detailed Integrated Payment Gateway, Customized Calendar view, Property gallery, Free Technical support and much more. [Checkout all the awesome pro features](http://wordpress-expert.codeinterest.com/wordpress/wp-quick-booking-manager-pro).
+> [WP Quick Booking Manager Pro](http://www.codecanyon.net/item/wp-quick-booking-manager-pro/9775460?ref=wpproducts) also comes with a premium paid version. Upgrade to [WP Quick Booking Manager Pro](http://www.codecanyon.net/item/wp-quick-booking-manager-pro/9775460?ref=wpproducts) for exceptional features, including a detailed Integrated Payment Gateway, Customized Calendar view, Property gallery, Free Technical support and much more. [Checkout all the awesome pro features](http://www.codecanyon.net/item/wp-quick-booking-manager-pro/9775460?ref=wpproducts).
 >
 
 
@@ -49,7 +49,7 @@ Your Customers will be able to:
 - Dynamic Rooms Gallery
 - Full Technical Support From Us
 
-[Upgrade to the Pro version](http://wordpress-expert.codeinterest.com/wordpress/wp-quick-booking-manager-pro) for all the pro features, and read more in [depth details](http://wordpress-expert.codeinterest.com/wordpress/wp-quick-booking-manager-pro) about the plugin.
+[Upgrade to the Pro version](http://www.codecanyon.net/item/wp-quick-booking-manager-pro/9775460?ref=wpproducts) for all the pro features, and read more in [depth details](http://www.codecanyon.net/item/wp-quick-booking-manager-pro/9775460?ref=wpproducts) about the plugin.
 
 
 = Manage your Bookings in Admin Panel: =
