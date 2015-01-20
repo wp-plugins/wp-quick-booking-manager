@@ -36,6 +36,25 @@ Your Customers will be able to:
 = FEATURES: =
 - Make bookings in friendly booking interface - select the date(s) and fill form fields.
 - Prevent of double booking for already reserved days (1 booking per 1 day for a particular room).
+- Very flexible functionality. Fit to very wide range of business.
+- All bookings and settings are stored in your DB. You don't need third party account(s).
+- PLUG-N-PLAY. just activate it and start using. post/page creation and shortcode insertion in post/page is automatic. and all necessary database table creation is automatic.
+- An easy to use Booking Admin Panel that displays bookings in Calendar Overview or Listing Table and lets you manages bookings.
+- Built with jQuery, Ajax and other technologies.
+- Insert Booking Calendar into any Post/Page using ShortCode [gen_sccalendar].
+- Add/Edit/Manage Booking from Admin Interface.
+- Pretty modern administration interface.
+- Pagination of the booking listing.
+- Administrator can Decline specific bookings.
+- You can fix any UI related issue by writing your custom css from admin option.
+- Allows defining the product name at PayPal, the currency, tax,administrator email and the PayPal language.
+- Unlimited number of dynamic Rooms, Bookings, unlimited number of clients.
+- Multiple-currency support.
+- Show Bookings / Availability in the daily, weekly or monthly view.
+- Easily add, edit or delete Booking in WP Admin.
+- automatically page created and shortcode copied to page to generate calendar and payment process related pages. so its really easy to install and configure.
+- you can add booking by clicking calendar date cell easily and check availability of all rooms in calendar. so you can manage booking very easily.
+- And much more coming soon...
 
 = Additional Features Available with the Pro (paid) version only =
 - Free Installation Service
