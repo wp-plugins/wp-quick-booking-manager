@@ -93,15 +93,18 @@
 						<div><h4>'.$post_title.'</h4></div>
 						<div style="float:left;width:40%">
 							<img style="border:solid 1px #B8B8B8;" src='.$img_url.' width="300px" height="170px"> 
-						</div>
-						<div style="float:left;width:55%;margin-left:15px;">
-							<div>'.$desc.'</div><br>
-							<div>No of Bed: '.$noofbed.'</div>
-							<div>Bathroom: '.$bathroom.'</div>
-							<div>Price: '.$price.' / Day</div>
-							<div>Room Capacity: '.$capacity.' Person</div>
-						</div>
-					</div>
+						</div>';
+					if($bathroom != '' || $bathroom != NULL){
+            $output .='<div style="float:left;width:55%;margin-left:15px;">
+                <div>'.$desc.'</div><br>
+                <div>No of Bed: '.$noofbed.'</div>
+                <div>Bathroom: '.$bathroom.'</div>
+                <div>Price: '.$price.' / Day</div>
+                <div>Room Capacity: '.$capacity.' Person</div>
+              </div>';
+          }
+          
+					$output .='</div>
 					
 					<div style="clear:both;padding-top:20px;">
 							<div style="float:left;">Rooms: </div>
