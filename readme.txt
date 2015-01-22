@@ -37,6 +37,7 @@ Your Customers will be able to:
 - Make bookings in friendly booking interface - select the date(s) and fill form fields.
 - Prevent of double booking for already reserved days (1 booking per 1 day for a particular room).
 - Very flexible functionality. Fit to very wide range of business.
+- RESPONSIVE booking and availability Calendar to fit any device.
 - All bookings and settings are stored in your DB. You don't need third party account(s).
 - PLUG-N-PLAY. just activate it and start using. post/page creation and shortcode insertion in post/page is automatic. and all necessary database table creation is automatic.
 - An easy to use Booking Admin Panel that displays bookings in Calendar Overview or Listing Table and lets you manages bookings.
