@@ -126,7 +126,7 @@ $room_image = get_post_meta($post->ID, '_room_image', true);
     	<th scope="row">Bath Room:</th>
     	<td>
       	<select id="bathroom" name="bathroom">
-        	<option value="insuite" <?php if($room_bathroom == 'insuite') echo 'selected'; ?> >Insuite</option>
+        	<option value="ensuite" <?php if($room_bathroom == 'ensuite') echo 'selected'; ?> >Ensuite</option>
           <option value="shared" <?php if($room_bathroom == 'shared') echo 'selected'; ?> >Shared</option>
         </select>
       </td>
