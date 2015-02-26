@@ -79,12 +79,21 @@ Your Customers will be able to:
 - Pagination of the booking listing.
 - Administrator can edit or Delete specific bookings.
 - View the bookings in booking calendar of any month of any year.
+- Add unlimited room.
+- Set Room category from admin.
+- Booking can be added from admin panel.
+- View the booking calendar at a glance.
+- “Booked” and “Processing” background color can be set.
+- Add custom CSS for frontend design.
+- Integrated with manual and PayPal payment system
 
 = You can use this booking calendar as: =
 - Booking calendar / availability calendar for a holiday home, bed & breakfast, condo or hotel
 - Booking calendar / availability calendar for a room or office
 - Booking calendar / availability calendar for a car or boat
+- A booking calendar or availability calendar for community center or any party hall.
 - A booking calendar for equipment
+- Booking and availability for clinic, medical rooms and words seat etc.
 - A shift calendar
 - Whatever you like!
 	 
