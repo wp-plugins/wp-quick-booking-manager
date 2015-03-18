@@ -97,7 +97,6 @@ Your Customers will be able to:
 - A shift calendar
 - Whatever you like!
 	 
-This plugin is compatible and tested up to Wordpress Version: 4.0 
 
 <p>Some of our popular extensions include the followings:</p> 
 <p><a rel="nofollow" href="http://wordpress-expert.codeinterest.com/wordpress/icontact-wordpress">iContact Wordpress Plugin</a></p>
